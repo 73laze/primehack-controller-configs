@@ -35,8 +35,8 @@ Download the primecontrols.ini file and place them inside your dolphin Wiimote f
 
 <h2> Some general tips when using these controls: </h2>
 <ol>
-<li> 1. because "A" is mapped to RT (right trigger) for firing, this means you will also be using the right trigger to interact with everything else, such as forwarding dialogue, or having Samus press a button, etc.</li>
-<li> 2. Prime 3 was specifically designed to use motion controls, where as Prime 1 / 2 had motion controls added in after the fact. You'll encounter motion control mini games in Prime 3 where the game will tell you to twist the nunchuk a certain way. Obviously, that wont work lol. Just pull the left stick back the entire time - that usually works for me and honestly makes things simpler. </li>
+<li> because "A" is mapped to RT (right trigger) for firing, this means you will also be using the right trigger to interact with everything else, such as forwarding dialogue, or having Samus press a button, etc.</li>
+<li> Prime 3 was specifically designed to use motion controls, where as Prime 1 / 2 had motion controls added in after the fact. You'll encounter motion control mini games in Prime 3 where the game will tell you to twist the nunchuk a certain way. Obviously, that wont work lol. Just pull the left stick back the entire time - that usually works for me and honestly makes things simpler. </li>
 </ol>
 
 <h2> Ref: Basis for controls </h2>
