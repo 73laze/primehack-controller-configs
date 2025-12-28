@@ -4,7 +4,7 @@
 
 !!! PLS READ: this was primarily configured for my xbox one S controller. Depending on button layouts, it may be different for you if you choose to use a different controller type (playstation, nintendo, 8bitdo, etc). It can still be used as a basis, though it might require some manual tweaking. 
 
-Download the primecontrols.ini file at primecontrols.ini and place them inside your dolphin Wiimote folder. If you dont know how to get to that directory, do the following: (Ive only done this on windows, results may vary)
+Download the primecontrols.ini file and place them inside your dolphin Wiimote folder. If you dont know how to get to that directory, do the following: (Ive only done this on windows, results may vary)
 1. Open primehack
 2. click on the "File" tab in the top left.
 3. click "Open User Folder"
