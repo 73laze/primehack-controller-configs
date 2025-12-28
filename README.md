@@ -1,6 +1,6 @@
 <h1> Primehack Control Configs :] </h1>
 
-<p> These are my controller config files for the program called <a href="https://forums.dolphin-emu.org/Thread-fork-primehack-fps-controls-and-more-for-metroid-prime" target="_blank">PrimeHack </a></p>
+<p> These are my controller config files for the program called <a target="_blank https://forums.dolphin-emu.org/Thread-fork-primehack-fps-controls-and-more-for-metroid-prime">PrimeHack </a></p>
 
 !!! PLS READ: this was primarily configured for my xbox one S controller. Depending on button layouts, it may be different for you if you choose to use a different controller type (playstation, nintendo, 8bitdo, etc). It can still be used as a basis, though it might require some manual tweaking. Just 
 
