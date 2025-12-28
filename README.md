@@ -14,18 +14,18 @@ Just simply download the files, and place them inside your dolphin Wiimote folde
 7. place the .ini files here.
 
 <h2> Loading the files </h2>
-<ul>
-<li> 1. Connect your desired controller </li>
-<li> 2. click on "Controllers" in the main PrimeHack Menu </li>
-<li> 3. Ensure the "Emulate the Wii's Bluetooth adapter" bubble is clicked, with the option "Metroid (Wii Remote) is selected. </li>
-<li> 4. Then, hit the "Configure" box next to it. </li>
-<li> 5. Your screen should look like the one below. First, ensure the controller you are using is the one selected. Go to the top left, and from the drop down menu, select it. </li>
-<li> 6. In the top right you will see a "Profile box" - click the drop down menu and select "primecontrols". </li>
-<li> 7. click "Load". I repeat this on start up each time. Ive found sometimes not all my controls will load if I dont, so get used to doing this lol. </li>
-<li> 8. you're done! the controls should look something like this: </li>
-<li> 9. Since you have a different controller then mine, I would recommend recalibrating the movement sticks. Just click "Calibrate" and spin your sticks around. </li>
-<li> 10. deadzones are set to those percentages because if you dont, the "look" controls like its on ice. Before you start, I would make sure you have a deadzone that encompasses your entire "aim point", like it does in the screenshot. Otherwise you might get problems. </li>
-</ul>
+<ol>
+<li> Connect your desired controller </li>
+<li> click on "Controllers" in the main PrimeHack Menu </li>
+<li> Ensure the "Emulate the Wii's Bluetooth adapter" bubble is clicked, with the option "Metroid (Wii Remote) is selected. </li>
+<li> Then, hit the "Configure" box next to it. </li>
+<li> Your screen should look like the one below. First, ensure the controller you are using is the one selected. Go to the top left, and from the drop down menu, select it. </li>
+<li> In the top right you will see a "Profile box" - click the drop down menu and select "primecontrols". </li>
+<li> click "Load". I repeat this on start up each time. Ive found sometimes not all my controls will load if I dont, so get used to doing this lol. </li>
+<li> you're done! the controls should look something like this: </li>
+<li> Since you have a different controller then mine, I would recommend recalibrating the movement sticks. Just click "Calibrate" and spin your sticks around. </li>
+<li> deadzones are set to those percentages because if you dont, the "look" controls like its on ice. Before you start, I would make sure you have a deadzone that encompasses your entire "aim point", like it does in the screenshot. Otherwise you might get problems. </li>
+</ol>
 
 <img width="1545" height="843" alt="image" src="https://github.com/user-attachments/assets/8d2207d3-911a-4483-993e-e13ed7cad315" />
 <img width="1656" height="854" alt="image" src="https://github.com/user-attachments/assets/45fb02e2-3798-4b99-9af8-176731162033" />
