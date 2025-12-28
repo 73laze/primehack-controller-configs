@@ -16,20 +16,20 @@ Just simply download the files, and place them inside your dolphin Wiimote folde
 <h2> Loading the files </h2>
 1. Connect your desired controller 
 2. click on "Controllers" in the main PrimeHack Menu 
-<img width="1545" height="843" alt="image" src="https://github.com/user-attachments/assets/8d2207d3-911a-4483-993e-e13ed7cad315" />
 3. Ensure the "Emulate the Wii's Bluetooth adapter" bubble is clicked, with the option "Metroid (Wii Remote) is selected. 
 4. Then, hit the "Configure" box next to it. 
-<img width="1656" height="854" alt="image" src="https://github.com/user-attachments/assets/45fb02e2-3798-4b99-9af8-176731162033" />
 5. Your screen should look like the one below. First, ensure the controller you are using is the one selected. Go to the top left, and from the drop down menu, select it. 
 6. In the top right you will see a "Profile box" - click the drop down menu and select "primecontrols". 
 7. click "Load". I repeat this on start up each time. Ive found sometimes not all my controls will load if I dont, so get used to doing this lol. 
-<img width="1369" height="998" alt="image" src="https://github.com/user-attachments/assets/4f4c5611-735c-4128-9495-d3a09e07703b" />
 8. you're done! the controls should look something like this:
-<img width="1356" height="996" alt="image" src="https://github.com/user-attachments/assets/09ddfdc7-c903-4bf4-adbf-678007e41c3e" />
 9. Since you have a different controller then mine, I would recommend recalibrating the movement sticks. Just click "Calibrate" and spin your sticks around. 
-<img width="1367" height="1002" alt="image" src="https://github.com/user-attachments/assets/087b7868-d264-4ee2-8699-2432b686ce23" />
 10. deadzones are set to those percentages because if you dont, the "look" controls like its on ice. Before you start, I would make sure you have a deadzone that encompasses your entire "aim point", like it does in the screenshot. Otherwise you might get problems. 
 
+<img width="1545" height="843" alt="image" src="https://github.com/user-attachments/assets/8d2207d3-911a-4483-993e-e13ed7cad315" />
+<img width="1656" height="854" alt="image" src="https://github.com/user-attachments/assets/45fb02e2-3798-4b99-9af8-176731162033" />
+<img width="1369" height="998" alt="image" src="https://github.com/user-attachments/assets/4f4c5611-735c-4128-9495-d3a09e07703b" />
+<img width="1356" height="996" alt="image" src="https://github.com/user-attachments/assets/09ddfdc7-c903-4bf4-adbf-678007e41c3e" />
+<img width="1367" height="1002" alt="image" src="https://github.com/user-attachments/assets/087b7868-d264-4ee2-8699-2432b686ce23" />
 
 <h2> Some general tips when using these controls: </h2>
 1. because "A" is mapped to RT (right trigger) for firing, this means you will also be using the right trigger to interact with everything else, such as forwarding dialogue, or having Samus press a button, etc.
